@@ -80,5 +80,4 @@ The project objective is broken into the following components:
 ## Contact
 
 For feedback or queries, contact:  
-**Kousar Kousar**  
 Email: kousar.kousar@bilkent.edu.tr
